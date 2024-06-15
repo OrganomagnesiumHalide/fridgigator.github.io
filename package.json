@@ -15,7 +15,7 @@
   "license": "MIT",
   "homepage": "https://awesome.ttntm.me",
   "devDependencies": {
-    "gulp": "^4.0.2",
+    "gulp": "^5.0.0",
     "gulp-concat": "^2.6.1",
     "gulp-concat-css": "^3.1.0",
     "gulp-cssnano": "^2.1.3",
